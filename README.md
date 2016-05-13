@@ -6,6 +6,11 @@ Quick example of reading a file line by line and outputting to a GELF input (gra
 
 - [pygelf](https://pypi.python.org/pypi/pygelf)
 
+##Example
+
+python read.py test.txt test
+                ^file    ^logsource tag
+
 ##Todo
 
 - Add --help and warnings when parameters are empty.
