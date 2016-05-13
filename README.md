@@ -9,7 +9,6 @@ Quick example of reading a file line by line and outputting to a GELF input (gra
 ##Example
 
 python read.py test.txt test
-                ^file    ^logsource tag
 
 ##Todo
 
